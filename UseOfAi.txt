@@ -1,0 +1,9 @@
+Ai was mainly used for css within this project as well as some structure related html
+
+Couple things I didn't understand at first glance was the main, and section tags but after research I understand that main tags use is
+to hold core informatioin within the page, it is something that should be specific to that page only. The section tag is used for grouping of
+related content and should include a header.
+
+There are many css related content within classes that are very new to me but they are very self-explanatory just by reading them
+
+prompt for generating body of HTML: Generate HTML body for a Ai resume builder using tailwind and give it a futuristic look 
